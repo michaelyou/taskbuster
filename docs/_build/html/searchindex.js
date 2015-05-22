@@ -1,0 +1,1 @@
+Search.setIndex({envversion:47,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{"\u641c\u7d22\u9875\u9762":[],"\u6a21\u5757\u7d22\u5f15":[],"\u7d22\u5f15":[],content:0,index:0,modul:0,page:0,search:0},titles:["Welcome to TaskBuster&#8217;s documentation!"],titleterms:{document:0,indic:0,tabl:0,taskbust:0,welcom:0}})
